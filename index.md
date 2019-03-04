@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 我自己的网站哦
 
 You can use the [editor on GitHub](https://github.com/Mentira-Spongebob/spongebob/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
